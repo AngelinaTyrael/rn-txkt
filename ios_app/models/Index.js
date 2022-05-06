@@ -1,6 +1,4 @@
-import {
-  API
-} from '../utils/config';
+import {API} from '../utils/config';
 import HTTP from '../utils/http';
 
 export default class IndexModel extends HTTP {

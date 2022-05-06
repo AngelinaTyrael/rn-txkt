@@ -14,7 +14,4 @@ function directToPage(navigation, pageName, params) {
   navigation.navigate(pageName, params);
 }
 
-export {
-  filterFieldData,
-  directToPage
-}
+export {filterFieldData, directToPage};

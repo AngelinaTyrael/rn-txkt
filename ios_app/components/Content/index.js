@@ -1,4 +1,4 @@
-import { View, Text, TouchableWithoutFeedback } from 'react-native';
+import {View, Text, TouchableWithoutFeedback} from 'react-native';
 import React, {Component} from 'react';
 import styles from './styles';
 

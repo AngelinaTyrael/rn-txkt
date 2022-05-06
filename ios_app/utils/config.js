@@ -6,6 +6,4 @@ const API = {
   getCourseFields: BASE_URL + 'course/v2/get_course_fields',
 };
 
-export {
-  API
-};
+export {API};
