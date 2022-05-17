@@ -1,4 +1,4 @@
-import {View, TouchableWithoutFeedback, Image} from 'react-native';
+import {View} from 'react-native';
 import React, {Component} from 'react';
 import Swiper from 'react-native-swiper';
 import styles from './styles';
